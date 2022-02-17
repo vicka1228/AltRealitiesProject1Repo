@@ -1,11 +1,11 @@
-# Your project title
+# The Ruined Throne
 
-A short description.
+An environmental storytelling project.
 
 ## Technical setup instructions
 
-Some special setup requirements. 
+This hasn't been adapted to the Oculus environment so just open in Unity for now.
 
 ## Special controls 
 
-or other technical need to know things that are crucial to successfully operate/navigate the experience
+Normal Unity controls.

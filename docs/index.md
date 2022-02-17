@@ -7,7 +7,7 @@ The few people present in the court turned to statues. The kingdom/city was soon
 
 ## Final Visuals
 
-<div style="padding:56.19% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/678802642?h=3f0d0fee7f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Screen Recording 2022-02-17 at 85655 PM"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+https://vimeo.com/678802642
 
 <img width="732" alt="Screenshot 2022-02-17 at 10 10 39 PM" src="https://user-images.githubusercontent.com/91835014/154548404-3e261d2b-f004-4c0e-be57-e0ab003bc9ed.png">
 
